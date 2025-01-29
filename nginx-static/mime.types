@@ -1,0 +1,53 @@
+types {
+    # Text types
+    text/html                             html htm shtml;
+    text/css                              css;
+    text/xml                              xml;
+    text/plain                            txt;
+
+    # Image types
+    image/gif                             gif;
+    image/jpeg                            jpeg jpg;
+    image/png                             png;
+    image/svg+xml                         svg svgz;
+    image/tiff                            tif tiff;
+    image/webp                            webp;
+
+    # Font types
+    #font/woff                             woff;
+    #font/woff2                            woff2;
+    application/font-woff                 woff;
+    application/font-woff2                woff2;
+    application/vnd.ms-fontobject         eot;
+    application/x-font-ttf                ttc ttf;
+
+    # Application types
+    application/javascript                js;
+    application/json                      json;
+    application/pdf                       pdf;
+    application/zip                       zip;
+    application/x-shockwave-flash         swf;
+    application/xhtml+xml                 xhtml;
+    #application/xml                       xml;
+    application/atom+xml                  atom;
+    application/rss+xml                   rss;
+
+    # Audio types
+    audio/mpeg                            mp3;
+    audio/ogg                             oga ogg;
+    audio/wav                             wav;
+    audio/webm                            weba;
+
+    # Video types
+    video/mp4                             mp4;
+    video/ogg                             ogv;
+    video/webm                            webm;
+
+    # Other types
+    application/octet-stream              bin exe dll;
+    application/x-bzip                    bz;
+    application/x-bzip2                   bz2;
+    application/x-rar-compressed          rar;
+    application/x-tar                     tar;
+    application/x-7z-compressed           7z;
+}
